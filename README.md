@@ -12,3 +12,4 @@ Latar Belakang: Informasi yang beredar biasanya tidak beraturan, dimana informas
     Bahasa Frontend: Javascript
 
     Perubahan
+    Ini asyraf yang buat
