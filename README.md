@@ -10,3 +10,5 @@ Latar Belakang: Informasi yang beredar biasanya tidak beraturan, dimana informas
     Database: PostgreSQL
     Bahasa Server: Nodejs
     Bahasa Frontend: Javascript
+
+test asyraf
